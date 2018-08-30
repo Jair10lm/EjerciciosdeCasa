@@ -1,0 +1,5 @@
+﻿  main_prac3.cpp
+c:\users\jair10lm\documents\computacion grafica\ejercicio casa 3\prac3\prac3\main_prac3.cpp(51): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\jair10lm\documents\computacion grafica\ejercicio casa 3\prac3\prac3\main_prac3.cpp(119): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+c:\users\jair10lm\documents\computacion grafica\ejercicio casa 3\prac3\prac3\main_prac3.cpp(185): warning C4838: la conversión de 'double' en 'GLfloat' requiere una conversión de restricción
+  Prac3.vcxproj -> C:\Users\Jair10lm\Documents\Computacion Grafica\Ejercicio Casa 3\Prac3\Debug\Prac3.exe
